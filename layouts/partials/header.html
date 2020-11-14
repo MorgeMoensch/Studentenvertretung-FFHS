@@ -1,0 +1,13 @@
+<nav>
+    <ul class="menu">
+        <li><a href="{{ .Site.BaseURL }}"><span><i aria-hidden="true"></i>
+                  Startseite</span></a></li>
+        {{ range .Site.Menus.nav }}
+        <li class="u-pull-right">
+            <a href="{{ .URL | absLangURL }}" class="Members">
+                <span>{{ .Pre }} {{ .Name }}</span>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</nav>

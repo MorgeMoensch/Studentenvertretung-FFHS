@@ -1,0 +1,11 @@
+baseURL = "http://morgemoensch.github.io/studentenvertretung-ffhs"
+languageCode = "de-ch"
+publishDir = "docs"
+title = "Studentenvertretung FFHS"
+theme = "hugo-sugoi"
+paginate = 5
+
+[menu]
+    [[menu.nav]]
+	name = "about"
+	url = "about"
