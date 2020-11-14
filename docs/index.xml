@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studentenvertretung FFHS</title>
+    <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/</link>
+    <description>Recent content on Studentenvertretung FFHS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Sat, 14 Nov 2020 16:17:17 +0100</lastBuildDate>
+    
+	<atom:link href="https://morgemoensch.github.io/Studentenvertretung-FFHS/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/test-post/</link>
+      <pubDate>Sat, 14 Nov 2020 16:17:17 +0100</pubDate>
+      
+      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/test-post/</guid>
+      <description>Test Post Eifach mau zum luege öb ds klappet</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/about/</link>
+      <pubDate>Sat, 14 Nov 2020 16:00:31 +0100</pubDate>
+      
+      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/about/</guid>
+      <description>nume sooooo oder? Aber was söu das eigentlech?</description>
+    </item>
+    
+  </channel>
+</rss>

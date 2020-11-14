@@ -1,4 +1,4 @@
-baseURL = "http://morgemoensch.github.io/studentenvertretung-ffhs"
+baseURL = "https://morgemoensch.github.io/Studentenvertretung-FFHS/"
 languageCode = "de-ch"
 publishDir = "docs"
 title = "Studentenvertretung FFHS"
