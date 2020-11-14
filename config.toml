@@ -5,6 +5,9 @@ title = "Studentenvertretung FFHS"
 theme = "hugo-sugoi"
 paginate = 5
 
+[params]
+herotitle = "Website der PiBS Studentenvertretung"
+
 [menu]
     [[menu.nav]]
 	name = "about"
