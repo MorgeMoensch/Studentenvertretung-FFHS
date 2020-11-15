@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Studentenvertretung FFHS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Sat, 14 Nov 2020 16:17:17 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 21:34:28 +0100</lastBuildDate>
     
 	<atom:link href="https://morgemoensch.github.io/Studentenvertretung-FFHS/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Great Post</title>
+      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/my-great-post/</link>
+      <pubDate>Sun, 15 Nov 2020 21:34:28 +0100</pubDate>
+      
+      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/my-great-post/</guid>
+      <description>Just another thing to show so that the site is not that empty :)</description>
+    </item>
     
     <item>
       <title>Test Post</title>
