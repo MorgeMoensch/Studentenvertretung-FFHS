@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/</loc>
-    <lastmod>2020-11-14T16:17:17+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://morgemoensch.github.io/Studentenvertretung-FFHS/faq/</loc>
+    <lastmod>2020-11-14T16:56:46+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://morgemoensch.github.io/Studentenvertretung-FFHS/</loc>
+    <lastmod>2020-11-14T16:56:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/</loc>
     <lastmod>2020-11-14T16:17:17+01:00</lastmod>
     <priority>0</priority>
   </url>

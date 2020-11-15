@@ -6,10 +6,20 @@
     <description>Recent content on Studentenvertretung FFHS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Sat, 14 Nov 2020 16:17:17 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 16:56:46 +0100</lastBuildDate>
     
 	<atom:link href="https://morgemoensch.github.io/Studentenvertretung-FFHS/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/faq/</link>
+      <pubDate>Sat, 14 Nov 2020 16:56:46 +0100</pubDate>
+      
+      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/faq/</guid>
+      <description>FAQ Auf dieser Seite sind die Infos zu den häufigsten Fragen zu finden. Klicke auf die Links unten, um direkt zu den entsprechenden Punkten zu gelangen:
+ Bücher Hoi  Bücher Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vulputate nisl eu turpis vestibulum, eget congue nibh consectetur. Ut semper nunc quis bibendum malesuada. In id diam sed lorem pellentesque hendrerit. Nunc nec purus sit amet augue hendrerit vestibulum.</description>
+    </item>
     
     <item>
       <title>Test Post</title>

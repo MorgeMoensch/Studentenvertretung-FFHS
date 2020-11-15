@@ -9,6 +9,12 @@ paginate = 5
 herotitle = "Website der PiBS Studentenvertretung"
 
 [menu]
-    [[menu.nav]]
-	name = "about"
-	url = "about"
+  [[menu.nav]]
+    name = "FAQ"
+    url = "faq"
+    weight = -1
+
+  [[menu.nav]]
+    name = "about"
+    url = "about"
+    weight = -2
