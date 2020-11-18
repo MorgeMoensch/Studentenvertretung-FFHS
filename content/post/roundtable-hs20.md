@@ -1,7 +1,8 @@
 ---
 title: "Roundtable HS20"
 date: 2020-11-17T15:39:28+01:00
-draft: true
+draft: false
+summary: "Protokoll zum Roundtable im HS20. Besprochene Punkte: Onlineunterricht, Thesis, Praxiseinsatz, Kommunikation und mehr."
 ---
 Auf dieser Seite erfolgt nur eine kurze Zusammenfassung. Die vollständigen Protokolle könnt ihr hier einsehen:
 

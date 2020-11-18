@@ -6,27 +6,18 @@
     <description>Recent content in Posts on Studentenvertretung FFHS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Sun, 15 Nov 2020 21:34:28 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 15:39:28 +0100</lastBuildDate>
     
 	<atom:link href="https://morgemoensch.github.io/Studentenvertretung-FFHS/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Great Post</title>
-      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/my-great-post/</link>
-      <pubDate>Sun, 15 Nov 2020 21:34:28 +0100</pubDate>
+      <title>Roundtable HS20</title>
+      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/roundtable-hs20/</link>
+      <pubDate>Tue, 17 Nov 2020 15:39:28 +0100</pubDate>
       
-      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/my-great-post/</guid>
-      <description>Just another thing to show so that the site is not that empty :)</description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/test-post/</link>
-      <pubDate>Sat, 14 Nov 2020 16:17:17 +0100</pubDate>
-      
-      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/test-post/</guid>
-      <description>Test Post Eifach mau zum luege öb ds klappet</description>
+      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/roundtable-hs20/</guid>
+      <description>Protokoll zum Roundtable im HS20. Besprochene Punkte: Onlineunterricht, Thesis, Praxiseinsatz, Kommunikation und mehr.</description>
     </item>
     
   </channel>
