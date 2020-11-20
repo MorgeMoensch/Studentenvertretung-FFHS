@@ -28,14 +28,14 @@ Die FFHS will nach wie vor wissen, in welchen Bereichen die PiBSler eingesetzt w
 ### SWHB
 Das Modul SHWB wird in der Zukunft nicht mehr durchgeführt werden.
 
-# Input Studentenvertretung
-### Austauschevent
+### Input Studentenvertretung
+#### Austauschevent
 Es wird die Idee verfolgt, vor dem 'Get-Started' Event der FFHS für alle neuen Studenten ein Treffen mit allen PibBSlern und ggF. Unternehmensvertreter zu veranstalten.
 
-### Kommunikation & Transparenz
+#### Kommunikation & Transparenz
 Das Problem der fehlenden & widersprüchlichen Kommunikation wird von der FFHS immer noch nicht wirklich anerkannt. Es gäbe Richtlinien für die Dozenten, wenn sich diese nicht daran halten, soll die Studiengangsleitung eingeschaltet werden.
 
 Die Kommunikation mit dem Sekretariat fällt nicht in den Zuständigkeitsbereich der Studiengangsleitung.
 
-### Prüfungen
+#### Prüfungen
 Die FFHS gewährt keine Erleichterungen aufgrund der speziellen Corona-Situation, wie dies andere Hochschulen getan haben. Man kann 3 Ersatzmodule besuchen, bevor man den PiBS-Studiengang verlassen muss.
