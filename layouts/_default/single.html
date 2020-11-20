@@ -5,12 +5,12 @@
         <h1 class="section-heading">{{ .Title }}</h1>
         {{ if eq .Type "post" }}
           {{ if gt .ReadingTime 1 }}
-          {{ .Scratch.Set "readingTime" "minutes" }}
+          {{ .Scratch.Set "readingTime" "Minuten" }}
           {{ else }}
-          {{ .Scratch.Set "readingTime" "minute" }}
+          {{ .Scratch.Set "readingTime" "Minute" }}
           {{ end }}
-          <i class="far fa-calendar"></i> Published On: {{.Date.Format "2006-01-02"}},
-          <i class="far fa-clock"></i> Reading Time: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}
+          <i class="far fa-calendar"></i> {{.Date.Format "02. January 2006"}}<br>
+          <i class="far fa-clock"></i> Lesedauer: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}
         {{ end }}
         </h6>
     </div>
