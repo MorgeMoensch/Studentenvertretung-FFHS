@@ -6,8 +6,8 @@ summary: "Protokoll zum Roundtable im HS20. Besprochene Punkte: Onlineunterricht
 ---
 Auf dieser Seite erfolgt nur eine kurze Zusammenfassung. Die vollständigen Protokolle könnt ihr hier einsehen:
 
-- [Protokoll FFHS](https://link.com)
-- [Protokoll Studentenvertretung](https://link.com)
+- [Protokoll FFHS](https://ffhs-my.sharepoint.com/:b:/g/personal/matthias_fuhrimann_students_ffhs_ch/ETjFodvc8DBOgBWchtWhNGQBotGjlDa5Pg1UWO3HKmfqmQ?e=irCf9L)
+- [Protokoll Studentenvertretung](https://ffhs-my.sharepoint.com/:b:/g/personal/matthias_fuhrimann_students_ffhs_ch/Eb3oswyes0VIgC8ekdMX3L0B7wZSk1OXWLLSYwjk9WQaew?e=HFndn4)
 
 
 ### Rückblick FS20
