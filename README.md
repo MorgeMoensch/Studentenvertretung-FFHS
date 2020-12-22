@@ -33,7 +33,7 @@ First, run `hugo`. Then create a commit and push it to Github. The master-branch
 - [ ] Add FAQ items
   - [x] Prüfungseinsicht
   - [x] Dozent antwortet nicht
-  - [ ] Newrow Alternativen
-  - [ ] Ausbildungsbestätigungen
+  - [x] Newrow Alternativen
+  - [x] Ausbildungsbestätigungen
   - [ ] Modulplan stimmt nicht mit Moodle überein
   - [ ] Kommunikationsgefässe (Roundtable, Bila)
