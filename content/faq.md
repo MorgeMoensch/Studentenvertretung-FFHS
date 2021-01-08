@@ -7,15 +7,15 @@ draft: false
 Auf dieser Seite sind die Infos zu den häufigsten Fragen zu finden.
 Klicke auf die Links unten, um direkt zu den entsprechenden Punkten zu gelangen:
 
-- [Ausbildungsbestätigungen]({{<ref "faq.md#ausbildungsbestätigungen">}})
+- [Studienbestätigung]({{<ref "faq.md#studienbestätigung">}})
 - [Dozent antwortet nicht]({{<ref "faq.md#dozent-antwortet-nicht" >}})
 - [Newrow Alternativen]({{<ref "faq.md#newrow-alternativen">}})
 - [Prüfungseinsicht]({{<ref "faq.md#prüfungseinsicht" >}})
 
 ---
 
-### Ausbildungsbestätigungen
-Zurzeit muss in jedem Semester eine neue Ausbildungsbestätigung via Email an das [Sekretariat](mailto:sekretariat@ffhs.ch) angefordert werden. Es ist in Abklärung, inwiefern dieser Prozess automatisiert werden kann, indem beispielsweise eine Integrierung ins Studentenportal erfolgt.
+### Studienbestätigung
+Zurzeit muss in jedem Semester eine neue Studienbestätigung via Email an das [Sekretariat](mailto:sekretariat@ffhs.ch) angefordert werden. Es ist in Abklärung, inwiefern dieser Prozess automatisiert werden kann, indem beispielsweise eine Integrierung ins Studierendenportal erfolgt.
 
 ### Dozent antwortet nicht
 Die Dozenten sind dazu angehalten, innerhalb von XX Tagen zu antworten. Geschieht dies nicht, kann & soll die Studiengangsleitung eingschaltet werden.
