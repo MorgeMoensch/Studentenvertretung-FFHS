@@ -37,3 +37,4 @@ First, run `hugo`. Then create a commit and push it to Github. The master-branch
   - [ ] Ausbildungsbestätigungen
   - [ ] Modulplan stimmt nicht mit Moodle überein
   - [ ] Kommunikationsgefässe (Roundtable, Bila)
+  - [ ] Transferarbeiten
