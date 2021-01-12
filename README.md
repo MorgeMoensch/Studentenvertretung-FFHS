@@ -26,7 +26,7 @@ First, run `hugo`. Then create a commit and push it to Github. The master-branch
 ## To Do
 - [x] About Page
 - [x] Localization for Switzerland
-- [ ] Custom Domain (WIP)
+- [ ] Custom Domain (WIP. Domain secured by FFHS.)
 - [ ] Important Dates
 - [ ] Link Repository on Website
 - [ ] Testing on iOS/MacOS
@@ -38,3 +38,9 @@ First, run `hugo`. Then create a commit and push it to Github. The master-branch
   - [ ] Modulplan stimmt nicht mit Moodle überein
   - [ ] Kommunikationsgefässe (Roundtable, Bila)
   - [ ] Transferarbeiten
+  - [ ] Auslandsemester
+  - [ ] Nachprüfungen
+  - [ ] Rechnungsänderung
+  - [ ] Rechnungsaufschlüsselung (Modulkürzel)
+  - [ ] Wechsel an andere Hochschule
+  - [ ] Austauschevent mit anderen PiBSler
