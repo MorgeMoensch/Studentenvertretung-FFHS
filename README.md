@@ -26,7 +26,7 @@ First, run `hugo`. Then create a commit and push it to Github. The master-branch
 ## To Do
 - [x] About Page
 - [x] Localization for Switzerland
-- [ ] Custom Domain (WIP)
+- [x] Custom Domain
 - [ ] Important Dates
 - [ ] Link Repository on Website
 - [ ] Testing on iOS/MacOS
