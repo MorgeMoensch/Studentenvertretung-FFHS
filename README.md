@@ -3,7 +3,7 @@ This website gives PiBS-Students at FFHS useful information around their study.
 
 If you think something lacks on the website, please open an issue, contribute it yourself or contact your class representative.
 
-Currently the website is hosted on Github Pages and can be found [here](https://morgemoensch.github.io/Studentenvertretung-FFHS/).
+Currently the website is hosted on Github Pages and can be found at [ffhs-pibs.ch](https://ffhs-pibs.ch).
 
 ## How To
 ### Add new post:
