@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Studentenvertretung FFHS</title>
-    <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/</link>
+    <link>https://ffhs-pibs.ch/post/</link>
     <description>Recent content in Posts on Studentenvertretung FFHS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
     <lastBuildDate>Tue, 17 Nov 2020 15:39:28 +0100</lastBuildDate>
     
-	<atom:link href="https://morgemoensch.github.io/Studentenvertretung-FFHS/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ffhs-pibs.ch/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roundtable HS20</title>
-      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/roundtable-hs20/</link>
+      <link>https://ffhs-pibs.ch/post/roundtable-hs20/</link>
       <pubDate>Tue, 17 Nov 2020 15:39:28 +0100</pubDate>
       
-      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/roundtable-hs20/</guid>
+      <guid>https://ffhs-pibs.ch/post/roundtable-hs20/</guid>
       <description>Protokoll zum Roundtable im HS20. Besprochene Punkte: Onlineunterricht, Thesis, Praxiseinsatz, Kommunikation und mehr.</description>
     </item>
     
