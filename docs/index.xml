@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studentenvertretung FFHS</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Studentenvertretung FFHS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Tue, 17 Nov 2020 15:39:28 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 16:56:46 +0100</lastBuildDate>
     
 	<atom:link href="https://ffhs-pibs.ch/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,8 +27,7 @@
       
       <guid>https://ffhs-pibs.ch/faq/</guid>
       <description>Auf dieser Seite sind die Infos zu den häufigsten Fragen zu finden. Klicke auf die Links unten, um direkt zu den entsprechenden Punkten zu gelangen:
- Studienbestätigung Dozent antwortet nicht Newrow Alternativen Prüfungseinsicht  Studienbestätigung Zurzeit muss in jedem Semester eine neue Studienbestätigung via Email an das Sekretariat angefordert werden. Es ist in Abklärung, inwiefern dieser Prozess automatisiert werden kann, indem beispielsweise eine Integrierung ins Studierendenportal erfolgt.
-Dozent antwortet nicht Die Dozenten sind dazu angehalten, innerhalb von XX Tagen zu antworten.</description>
+ Studienbestätigung  Dozent antwortet nicht  Newrow Alternativen  Prüfungseinsicht    Studienbestätigung Zurzeit muss in jedem Semester eine neue Studienbestätigung via Email an das Sekretariat angefordert werden. Es ist in Abklärung, inwiefern dieser Prozess automatisiert werden kann, indem beispielsweise eine Integrierung ins Studierendenportal erfolgt.</description>
     </item>
     
     <item>
