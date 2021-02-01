@@ -12,8 +12,8 @@
       {{ .Scratch.Set "readingTime" "Minute" }}
       {{ end }}
       <div class="row">
-        <div class="nine columns"> <i class="far fa-calendar"></i> {{.Date.Format "02. January 2006"}}</div>
-        <div class="three columns"> <i class="far fa-clock"></i> Lesedauer: {{ .ReadingTime }}
+        <div class="nine columns"> <i class="bi-calendar"></i> {{.Date.Format "02. January 2006"}}</div>
+        <div class="three columns"> <i class="bi-clock"></i> Lesedauer: {{ .ReadingTime }}
           {{ .Scratch.Get "readingTime" }}</div>
       </div>
       <h5>

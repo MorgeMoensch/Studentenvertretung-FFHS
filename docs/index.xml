@@ -1,42 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studentenvertretung FFHS</title>
-    <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/</link>
+    <link>https://ffhs-pibs.ch/</link>
     <description>Recent content on Studentenvertretung FFHS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Tue, 17 Nov 2020 15:39:28 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 16:56:46 +0100</lastBuildDate>
     
-	<atom:link href="https://morgemoensch.github.io/Studentenvertretung-FFHS/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ffhs-pibs.ch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roundtable HS20</title>
-      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/roundtable-hs20/</link>
+      <link>https://ffhs-pibs.ch/post/roundtable-hs20/</link>
       <pubDate>Tue, 17 Nov 2020 15:39:28 +0100</pubDate>
       
-      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/post/roundtable-hs20/</guid>
+      <guid>https://ffhs-pibs.ch/post/roundtable-hs20/</guid>
       <description>Protokoll zum Roundtable im HS20. Besprochene Punkte: Onlineunterricht, Thesis, Praxiseinsatz, Kommunikation und mehr.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/faq/</link>
+      <link>https://ffhs-pibs.ch/faq/</link>
       <pubDate>Sat, 14 Nov 2020 16:56:46 +0100</pubDate>
       
-      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/faq/</guid>
+      <guid>https://ffhs-pibs.ch/faq/</guid>
       <description>Auf dieser Seite sind die Infos zu den häufigsten Fragen zu finden. Klicke auf die Links unten, um direkt zu den entsprechenden Punkten zu gelangen:
- Studienbestätigung Dozent antwortet nicht Newrow Alternativen Prüfungseinsicht  Studienbestätigung Zurzeit muss in jedem Semester eine neue Studienbestätigung via Email an das Sekretariat angefordert werden. Es ist in Abklärung, inwiefern dieser Prozess automatisiert werden kann, indem beispielsweise eine Integrierung ins Studierendenportal erfolgt.
-Dozent antwortet nicht Die Dozenten sind dazu angehalten, innerhalb von XX Tagen zu antworten.</description>
+ Studienbestätigung  Dozent antwortet nicht  Newrow Alternativen  Prüfungseinsicht    Studienbestätigung Zurzeit muss in jedem Semester eine neue Studienbestätigung via Email an das Sekretariat angefordert werden. Es ist in Abklärung, inwiefern dieser Prozess automatisiert werden kann, indem beispielsweise eine Integrierung ins Studierendenportal erfolgt.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://morgemoensch.github.io/Studentenvertretung-FFHS/about/</link>
+      <link>https://ffhs-pibs.ch/about/</link>
       <pubDate>Sat, 14 Nov 2020 16:00:31 +0100</pubDate>
       
-      <guid>https://morgemoensch.github.io/Studentenvertretung-FFHS/about/</guid>
+      <guid>https://ffhs-pibs.ch/about/</guid>
       <description>Was wir tun Als Studentenvertretung setzen wir uns für bessere Studiumsbedingungen ein. Dafür nehmen wir einmal pro Semester an einem Roundtable mit der FFHS und sämtlichen Praxispartnern teil. Ebenfalls gibt es halbjährlich ein Gespräch mit der Studiengangsleitung, an dem spezifischere Punkte besprochen werden können.
 Falls es Probleme mit Dozenten oder sonstige Schwierigkeiten gibt, sind die jeweiligen Klassenvertreter ebenfalls dafür da, die Kommunikation zwischen der Klasse und den Dozenten bzw. allenfalls der Studiengangsleitung herzustellen.</description>
     </item>
