@@ -1,4 +1,4 @@
-name: Automatically Create on Issue being assigned
+name: Create Branch when Issue is assigned
 
 on:
     issues:
@@ -17,4 +17,3 @@ jobs:
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             autoCloseIssue: true
-
