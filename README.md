@@ -38,3 +38,9 @@ First, run `hugo`. Then create a commit and push it to Github. The master-branch
   - [ ] Modulplan stimmt nicht mit Moodle überein
   - [ ] Kommunikationsgefässe (Roundtable, Bila)
   - [ ] Transferarbeiten
+  - [ ] Auslandsemester
+  - [ ] Nachprüfungen
+  - [ ] Rechnungsänderung
+  - [ ] Rechnungsaufschlüsselung (Modulkürzel)
+  - [ ] Wechsel an andere Hochschule
+  - [ ] Austauschevent mit anderen PiBSler
